@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run",
+  "spritesheet": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/final/spritesheet-extended.webp",
+  "validation": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/final/validation-extended.json",
+  "chroma_despill": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/qa/chroma-despill-extended.json",
+  "contact_sheet": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/qa/contact-sheet-extended.png",
+  "direction_sheet": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/qa/look-directions.png",
+  "direction_semantics": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/qa/direction-semantics.json",
+  "blind_direction_validation": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/qa/direction-blind-validation.json",
+  "blind_review_resolution": null,
+  "continuity": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/qa/look-continuity.json",
+  "review": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/qa/review.json",
+  "final_visual_qa": "<LOCAL_HOME>/Documents/Codex/2026-08-25/hatch-pet-users-wonderbell-codex-skills/outputs/suzu-pet-run/qa/final-visual-qa.txt",
+  "package": "<LOCAL_HOME>/.codex/pets/suzu"
+}

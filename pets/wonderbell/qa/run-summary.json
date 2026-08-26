@@ -1,0 +1,30 @@
+{
+  "petId": "wonderbell",
+  "displayName": "Wonderbell",
+  "status": "pass",
+  "source": "Two character images from the public bells0 GitHub profile README",
+  "atlas": {
+    "spriteVersionNumber": 2,
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "width": 1536,
+    "height": 2288,
+    "format": "lossless RGBA WebP"
+  },
+  "qa": {
+    "standardRows": "pass",
+    "directionSemantics": "pass",
+    "blindDirectionValidation": "pass with non-hard warning on horizontal pair 6",
+    "visualQa": "pass",
+    "chromaDespill": "pass; alpha preserved",
+    "atlasValidation": "pass"
+  },
+  "acceptedMinorWarnings": [
+    "Blind horizontal pair 6 was reversed by majority, while labeled semantic review confirmed 135 and 225.",
+    "Minor center shift at 000 to 022.5.",
+    "Minor silhouette and center snap at 157.5 to 180.",
+    "Slight frontal scale increase at 000 and 180."
+  ]
+}
