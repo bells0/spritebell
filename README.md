@@ -66,4 +66,4 @@ pets/<pet-id>/
 
 Every current pet uses Sprite v2: an 8 × 11 atlas at `1536 × 2288`, with nine standard work-state rows and sixteen clockwise look directions.
 
-> `run-summary.json` and `pet-request.json` intentionally preserve creation-time absolute paths as provenance. They are evidence records, not portable installation manifests.
+> `run-summary.json`, `validation.json`, and `pet-request.json` keep creation-time path context using the public-safe placeholders `<LOCAL_HOME>` and `<LOCAL_TEMP>`. They are evidence records, not portable installation manifests.
