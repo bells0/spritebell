@@ -24,6 +24,17 @@ A thoughtful agent-tanuki who scouts across borders, keeps evidence trails, and 
 - Preview: [`16 look directions`](pets/suzu/previews/look-directions.png)
 - Evidence: [`validation`](pets/suzu/qa/validation.json) · [`run summary`](pets/suzu/qa/run-summary.json)
 
+### 菲比 (Feibi)
+
+A gentle, radiant chibi companion with a lively spirit, known for greeting the workday with “菲比啾比”.
+
+![Feibi animation overview](pets/feibi/previews/contact-sheet.png)
+
+- Package: [`pet.json`](pets/feibi/pet.json) · [`spritesheet.webp`](pets/feibi/spritesheet.webp)
+- Preview: [`16 look directions`](pets/feibi/previews/look-directions.png)
+- Evidence: [`validation`](pets/feibi/qa/validation.json) · [`run summary`](pets/feibi/qa/run-summary.json)
+- Creative direction: [`voice direction`](pets/feibi/provenance/voice-direction.md)
+
 ## Install a pet
 
 Copy one complete pet directory into `~/.codex/pets/<pet-id>/`. The two runtime files must remain beside each other:
@@ -49,7 +60,8 @@ pets/<pet-id>/
 │   ├── validation.json
 │   └── run-summary.json
 └── provenance/
-    └── pet-request.json
+    ├── pet-request.json
+    └── voice-direction.md (when available)
 ```
 
 Every current pet uses Sprite v2: an 8 × 11 atlas at `1536 × 2288`, with nine standard work-state rows and sixteen clockwise look directions.
