@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run",
+  "spritesheet": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/final/spritesheet-extended.webp",
+  "validation": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/final/validation-extended.json",
+  "chroma_despill": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/qa/chroma-despill-extended.json",
+  "contact_sheet": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/qa/contact-sheet-extended.png",
+  "direction_sheet": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/qa/look-directions.png",
+  "direction_semantics": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/qa/direction-semantics.json",
+  "blind_direction_validation": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/qa/direction-blind-validation.json",
+  "continuity": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/qa/look-continuity.json",
+  "review": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/qa/review.json",
+  "final_visual_qa": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/hiiro-run/qa/final-visual-qa.json",
+  "package": "<LOCAL_HOME>/.codex/pets/hiiro-anemoi",
+  "completed_at": "2026-09-25T17:47:58.589977+00:00"
+}

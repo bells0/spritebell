@@ -55,6 +55,16 @@ An unofficial fan-made companion inspired by Key's 辻倉朱比華 from *anemoi*
 - Preview: [`16 look directions`](pets/spica-anemoi/previews/look-directions.png)
 - Evidence: [`validation`](pets/spica-anemoi/qa/validation.json) · [`run summary`](pets/spica-anemoi/qa/run-summary.json) · [`direction QA`](pets/spica-anemoi/qa/direction-semantics.json)
 
+### 陽彩 (Hiiro)
+
+An unofficial fan-made desktop companion inspired by Key's 淡雪陽彩 from *anemoi*: flowing silver-pink twin tails, pink eyes, a flower hair clip, and a white-and-blue sailor dress. [Official character reference](https://key.visualarts.gr.jp/anemoi/character.html).
+
+![Hiiro animation overview](pets/hiiro-anemoi/previews/contact-sheet.png)
+
+- Package: [`pet.json`](pets/hiiro-anemoi/pet.json) · [`spritesheet.webp`](pets/hiiro-anemoi/spritesheet.webp)
+- Preview: [`16 look directions`](pets/hiiro-anemoi/previews/look-directions.png)
+- Evidence: [`validation`](pets/hiiro-anemoi/qa/validation.json) · [`run summary`](pets/hiiro-anemoi/qa/run-summary.json) · [`direction QA`](pets/hiiro-anemoi/qa/direction-semantics.json)
+
 ## Install a pet
 
 Copy one complete pet directory into `~/.codex/pets/<pet-id>/`. The two runtime files must remain beside each other:
