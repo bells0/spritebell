@@ -35,6 +35,16 @@ A gentle, radiant chibi companion with a lively spirit, known for greeting the w
 - Evidence: [`validation`](pets/feibi/qa/validation.json) · [`run summary`](pets/feibi/qa/run-summary.json)
 - Creative direction: [`voice direction`](pets/feibi/provenance/voice-direction.md)
 
+### 穂乃夏 (Honoka)
+
+A cheerful travel companion inspired by 穂乃夏 from *anemoi*, ready to wave hello and set off together.
+
+![Honoka animation overview](pets/honoka-anemoi/previews/contact-sheet.png)
+
+- Package: [`pet.json`](pets/honoka-anemoi/pet.json) · [`spritesheet.webp`](pets/honoka-anemoi/spritesheet.webp)
+- Preview: [`16 look directions`](pets/honoka-anemoi/previews/look-directions.png)
+- Evidence: [`validation`](pets/honoka-anemoi/qa/validation.json) · [`run summary`](pets/honoka-anemoi/qa/run-summary.json)
+
 ## Install a pet
 
 Copy one complete pet directory into `~/.codex/pets/<pet-id>/`. The two runtime files must remain beside each other:

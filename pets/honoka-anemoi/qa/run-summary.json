@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run",
+  "spritesheet": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run/final/spritesheet-extended.webp",
+  "validation": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run/final/validation-extended.json",
+  "chroma_despill": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run/qa/chroma-despill-extended.json",
+  "contact_sheet": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run/qa/contact-sheet-extended.png",
+  "direction_sheet": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run/qa/look-directions.png",
+  "direction_semantics": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run/qa/direction-semantics.json",
+  "blind_direction_validation": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run/qa/direction-blind-validation.json",
+  "continuity": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run/qa/look-continuity.json",
+  "review": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/honoka-run/qa/review.json",
+  "package": "<LOCAL_HOME>/.codex/pets/honoka-anemoi"
+}
