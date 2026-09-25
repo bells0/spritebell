@@ -1,0 +1,8 @@
+{
+  "source": "<LOCAL_HOME>/.codex/generated_images/01a0d8b7-9722-7da0-add2-59ea68299171/exec-969e11a0-9296-4695-84b8-820fd09cc6cd.png",
+  "output": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/decoded/look-row-10.png",
+  "method": "uniform source-row slot scaling of generated artwork; no pose edits",
+  "scale": 0.945,
+  "y_offset": 18,
+  "reason": "row10 generated pose height 359-361 px; row9 approved pose height 337-342 px and locked registration scale caused top-edge clipping"
+}

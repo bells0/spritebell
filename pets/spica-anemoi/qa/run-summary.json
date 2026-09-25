@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run",
+  "spritesheet": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/final/spritesheet-extended.webp",
+  "validation": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/final/validation-extended.json",
+  "chroma_despill": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/qa/chroma-despill-extended.json",
+  "contact_sheet": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/qa/contact-sheet-extended.png",
+  "direction_sheet": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/qa/look-directions.png",
+  "direction_semantics": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/qa/direction-semantics.json",
+  "blind_direction_validation": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/qa/direction-blind-validation.json",
+  "continuity": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/qa/look-continuity.json",
+  "review": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/qa/review.json",
+  "technical_transform": "<LOCAL_HOME>/work-space/git-projects/PersonalKnowledgeBase/.local/anemoi-pet/spica-run/qa/look-row-10-normalization.json",
+  "package": "<LOCAL_HOME>/.codex/pets/spica-anemoi"
+}

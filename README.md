@@ -45,6 +45,16 @@ A cheerful travel companion inspired by 穂乃夏 from *anemoi*, ready to wave h
 - Preview: [`16 look directions`](pets/honoka-anemoi/previews/look-directions.png)
 - Evidence: [`validation`](pets/honoka-anemoi/qa/validation.json) · [`run summary`](pets/honoka-anemoi/qa/run-summary.json)
 
+### 朱比華 (Spica)
+
+An unofficial fan-made companion inspired by Key's 辻倉朱比華 from *anemoi*: silver hair, a side bun, a pink coat, and a quietly determined gaze. [Official character reference](https://key.visualarts.gr.jp/anemoi/character.html).
+
+![Spica animation overview](pets/spica-anemoi/previews/contact-sheet.png)
+
+- Package: [`pet.json`](pets/spica-anemoi/pet.json) · [`spritesheet.webp`](pets/spica-anemoi/spritesheet.webp)
+- Preview: [`16 look directions`](pets/spica-anemoi/previews/look-directions.png)
+- Evidence: [`validation`](pets/spica-anemoi/qa/validation.json) · [`run summary`](pets/spica-anemoi/qa/run-summary.json) · [`direction QA`](pets/spica-anemoi/qa/direction-semantics.json)
+
 ## Install a pet
 
 Copy one complete pet directory into `~/.codex/pets/<pet-id>/`. The two runtime files must remain beside each other:
